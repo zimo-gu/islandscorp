@@ -20,7 +20,6 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 {:.text-red-000} 
 - Text highlighted in **green** are the acceptable reasons to make a ticket. Community members should create a ticket for these reasons.
 - Text highlighted in **red** are the unacceptable reasons. Tickets made for these reasons will be disregarded.
-- For a more in-depth guide to punishments, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html).
 
 ## Acceptable Reasons
 {:.text-grey-dk-000}

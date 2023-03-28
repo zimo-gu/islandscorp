@@ -65,7 +65,7 @@ Below is an overview of each rank's job at training sessions.
 
 ## Host, Co-Host and Trainer Scripts
 {: .text-red-300 }
-
+[Guides - Google Documents](https://docs.google.com/document/d/1qJL59kzRcMRrBNCAPAV-BDTAxcXgGazzWl5E_hqJ9BQ/edit)
 
 ### Host and Co-Host: Claiming
 {: .text-yellow-200 }

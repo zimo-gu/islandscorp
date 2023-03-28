@@ -9,7 +9,7 @@ nav_order: 1
 
 Here, community members can find answers to frequently asked questions.
 
-### I am currently a Customer. How can I get a job at BloxStreet?
+### I am currently a Customer. How can I get a job at Islands Corp?
 {: .text-red-300 }
 {: .no_toc }
 In order to work at Islands Corp, visit the Quiz Center and pass the quiz. Doing so will rank you to Trainee Team Member, the first LR rank.

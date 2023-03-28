@@ -75,4 +75,4 @@ At :35 (25 minutes prior to the commencement of the session), the Host and Co-Ho
 
 At :45 (15 minutes prior to the commencement), the Host should :unslock the session, and the Co-Host should send the first group shout. The announcer must announce the training session at the hotel in all large servers.
 
-**Note: Once the Host has joined the game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are 
+**Note: Once the Host has joined the game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are experiencing technical difficulties**

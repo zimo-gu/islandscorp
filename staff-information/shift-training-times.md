@@ -6,7 +6,7 @@ nav_order: 3
 ---
 
 # Shift & Training Times
-Here, staff members can find all of BloxStreet's shift and training session times.
+Here, staff members can find all of IC's shift and training session times.
 
 | Shift Times | 
 |:------------| 

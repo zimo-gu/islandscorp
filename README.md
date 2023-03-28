@@ -1,6 +1,6 @@
-# BloxStreet Support
+# Islands Corporation Support
 
-This repository holds the source of the BloxStreet support website.
+This repository holds the source of the IC support website.
 
 ## Contributing?
 When contributing, ensure that you keep the style consistent with the other pages of the website.

@@ -51,7 +51,7 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Lack of grammar - HIGH RANKS | 
 | Leaking chats or confidential information |
 | Major death threats | 
-| Outdated information on an official BloxStreet source |
+| Outdated information on an official Islands Corp source |
 | Playing inappropriate or loud audios | 
 | Playing with ranking sticks or misusing them | 
 | Racism |

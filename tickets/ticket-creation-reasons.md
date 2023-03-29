@@ -34,7 +34,7 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Claiming a rank after a blacklist/permanent ban appeal is accepted |
 | Claiming a rank while blacklisted |
 | Claiming an HR rank after resigning or being reformed |
-| Clarification regarding a rule that can only be answered by a High Ramk member |
+| Clarification regarding a rule that can only be answered by a High Rank member |
 | Cuff abuse | 
 | Dancing/standing on elevated surfaces - SHIFT LEADER+ | 
 | Discrimination |

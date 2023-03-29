@@ -53,7 +53,7 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Major death threats | 
 | Outdated information on an official Islands Corp source |
 | Playing inappropriate or loud audios | 
-| Playing with ranking sticks or misusing them | 
+| Playing with ranking guns or misusing them | 
 | Racism |
 | Raiding |
 | Rank transfers | 
@@ -65,6 +65,7 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Trolling or behaving unprofessionally on an alternate account |
 | Trolling, spamming, capitals abuse, or unprofessionalism - SHIFT LEADER+ |
 | Trolling/unprofessionalism at alliances or non-affiliated establishments - SHIFT LEADER+ | 
+| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively |
 | Using :view on an SHR - HRs |
 {:.text-green-100} 
 
@@ -76,11 +77,9 @@ Tickets are used in Islands Corp to report various punishments, request clarific
 | Crowding or refusing to disperse - contact an HR |
 | LRs or MRs hinting for a promotion - contact an HR | 
 | Questions that can be answered by HRs (training times, shift times, etc.) | 
-| Trolling Guests/Customers - contact an HR |
-| Urgent in-game or group issues - contact an HR | 
-| Abuse of admin commands (:to, :bring, etc) - using them unnecessarily or excessively - contact an Junior Corporate+ |
-| Disrespecting, arguing, or ignoring an HR - contact an SHR+ |
-| MRs failing to hide TSA commands - contact an SHR+ | 
+| Trolling Guests/Customers - contact an MR |
+| Urgent in-game or group issues - contact an SHR+ | 
+| Disrespecting, arguing, or ignoring an HR - contact an SHR+ | 
 | Using :view on an SHR - for MRs - contact an SHR+ |
 | Asking for an appeal status - check the Islands Corp Staffing Support Discord | 
 | Abusing the group shout - contact an SHR through Direct Messages |

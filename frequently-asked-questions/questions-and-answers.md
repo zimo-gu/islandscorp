@@ -24,6 +24,11 @@ Trainee and Junior must attend training sessions to rank up.
 {: .no_toc }
 Senior Staff must be recognised by a HR member of the Operations department to be promoted to Head Staff.
 
+### I am currently a Head Staff. How can I recieve a promotion?
+{: .text-red-300 }
+{: .no_toc }
+Head Staff must be recognised by a Junior Corporate in the Operations department in order to be promoted to Shift Leader.
+
 ### How can I check the number of days I have remaining until my promotion cooldown ends? 
 {: .text-red-300 }
 {: .no_toc }

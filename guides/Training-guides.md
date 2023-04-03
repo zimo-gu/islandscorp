@@ -56,7 +56,7 @@ Below is an overview of each rank's job at training sessions.
 | Trainer           | Trainers join the Training Center at :45 and follow the instructions laid out in this guide. Trainers perform a series of tests and determine whether their LRs pass based on the criteria in this guide. | Shift Leader+ | Maximum of **4 trainers** (1 trainer per counter)  |
 | Assistant | Assistants join the Training Center at :45 and answers PTS when the server is :unslocked. They also handle with disruptions. | Shift Leader+ | Maximum of **4 assistants** (2 assistants per group) |
 | Lower Ranks | Lower Ranks (LRs) attend training sessions and follow all instructions to receive a possible promotion. | Trainee Team Member, Junior Team Member, and Senior Team Member | No maximum | 
-| Overseer | Spectators supervise training, ranks and ensure everything is running smoothly. | Junior Corporate+ | 2 maximum per server | 
+| Overseer | Overseers supervise training, ranks and ensure everything is running smoothly. | Junior Corporate+ | 2 maximum per server | 
 
 ##### **ANY RANK LISTED BELOW MAY NOT PARTICIPATE IN TRAINING:**
 {: .text-yellow-200 }
@@ -65,7 +65,7 @@ Below is an overview of each rank's job at training sessions.
 
 ## Host, Co-Host and Trainer Scripts
 {: .text-red-300 }
-[Guides - Google Documents](https://docs.google.com/document/d/1qJL59kzRcMRrBNCAPAV-BDTAxcXgGazzWl5E_hqJ9BQ/edit)
+[Training Guides - Google Documents](https://docs.google.com/document/d/1qJL59kzRcMRrBNCAPAV-BDTAxcXgGazzWl5E_hqJ9BQ/edit)
 
 ### Host and Co-Host: Claiming
 {: .text-yellow-200 }
@@ -73,6 +73,15 @@ Below is an overview of each rank's job at training sessions.
 
 At :35 (25 minutes prior to the commencement of the session), the Host and Co-Host should arrive at the Training Center. It is both the Host and Co-Host's responsibility to ensure they are online and arrive on time.
 
-At :45 (15 minutes prior to the commencement), the Host should :unslock the session, and the Co-Host should send the first group shout. The announcer must announce the training session at the hotel in all large servers.
+At :45 (15 minutes prior to the commencement), the Host should :unslock the session, and the Co-Host should send the first group shout. The host must announce the training session in the discord server by using the !startsession command in #commands.
 
 **Note: Once the Host has joined the game, they should not leave the server, or they will receive consequences. The Host should not claim if they know they are experiencing technical difficulties**
+
+### Co-Host: Logging
+{: .text-yellow-200 }
+{: .no_toc }
+
+When the session begins, the **Co-Host** must log all Shift Leader+ members that attended the session in #session-logs in the discord server. They **must use the format provided** or they risk a punishment. Logging sessions are **required** and must not be ignored, or the co-host will be demoted.
+
+Any **Senior Director+** that has attended the session, and are in the same server, they must check if everyone was logged correctly, and then must react with a checkmark and post the required message in #formats so our corporate team can view at any time.
+

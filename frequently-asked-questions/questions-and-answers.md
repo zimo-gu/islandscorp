@@ -14,15 +14,15 @@ Here, community members can find answers to frequently asked questions.
 {: .no_toc }
 In order to work at Islands Corp, visit the Quiz Center and pass the quiz. Doing so will rank you to Trainee Team Member, the first LR rank.
 
-### I am currently a Trainee, Junior, or Senior Team Member. How can I receive a promotion?
+### I am currently a Trainee or Junior Staff. How can I receive a promotion?
 {: .text-red-300 }
 {: .no_toc }
-Trainee, Junior, and Senior Team Members must attend training sessions to rank up. 
+Trainee and Junior must attend training sessions to rank up. 
 
-### I am currently a MR. How can I receive a promotion?
+### I am currently a Senior Staff. How can I receive a promotion?
 {: .text-red-300 }
 {: .no_toc }
-MRs must attend shifts to rank up.
+Senior Staff must be recognised by a HR member of the Operations department to be promoted to Head Staff.
 
 ### How can I check the number of days I have remaining until my promotion cooldown ends? 
 {: .text-red-300 }

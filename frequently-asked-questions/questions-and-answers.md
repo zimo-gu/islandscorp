@@ -32,12 +32,12 @@ Head Staff must be recognised by a Junior Corporate in the Operations department
 ### How can I check the number of days I have remaining until my promotion cooldown ends? 
 {: .text-red-300 }
 {: .no_toc }
-In order to check the number of days you have remaining until your promotion cooldown ends, ping or DM an available HR through the communications server.
+In order to check the number of days you have remaining until your promotion cooldown ends, create a support ticket through the communications server.
 
 ### When are shifts and training sessions hosted? 
 {: .text-red-300 }
 {: .no_toc }
-The training and shift schedule can be found in the in-game staff room or through the communications server. More information about shift and training session times can be found [here](https://zimo-gu.github.io/islandscorpdocs/staff-information).
+The training and shift schedule can be found in the in-game staff room or through the communications server.
 
 ### What are shifts?
 {: .text-red-300 }
@@ -47,9 +47,9 @@ Shifts are opportunities for MRs to receive a promotion. Shifts are also an oppo
 ### How can I check my demotion reason?
 {: .text-red-300 }
 {: .no_toc }
-If you were demoted and would like to see why, DM an available HR. If you have any questions or concerns regarding your demotion, feel free to open a ticket. 
+If you were demoted and would like to see why, create a support ticket. If you have any questions or concerns regarding your demotion, feel free to open a ticket. 
 
 ### Which ranks are permitted to train, host, co-host, and rank at training sessions? 
 {: .text-red-300 }
 {: .no_toc }
-Shift Leader+ may train at training sessions. Assistant Manager+ may host and Supervisor+ may co-host training sessions. Junior Corporate+ may promote.
+Shift Leader+ may train at training sessions. Assistant Manager+ may host and Supervisor+ may co-host training sessions. Junior Corporate+ may oversee.

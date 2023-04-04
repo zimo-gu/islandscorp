@@ -42,12 +42,12 @@ The training and shift schedule can be found in the in-game staff room or throug
 ### What are shifts?
 {: .text-red-300 }
 {: .no_toc }
-Shifts are opportunities for MRs to receive a promotion. Shifts are also an opportunity for guests to visit the hotel and have an enjoyable experience at Islands. Shift hosts are responsible for going around the map, checking for detailed greetings and proper grammar, and promoting players who exceed their expectations. During a shift, all staff members should be working at a station in the store.
+Shifts are opportunities for MRs to receive a promotion. Shifts are also an opportunity for guests to visit the hotel and have an enjoyable experience at Islands. Shift hosts are responsible for going around the map, checking for detailed greetings and proper grammar, and promoting players who exceed their expectations. During a shift, all staff members should be working at a station in the hotel.
 
 ### How can I check my demotion reason?
 {: .text-red-300 }
 {: .no_toc }
-If you were demoted and would like to see why, create a support ticket. If you have any questions or concerns regarding your demotion, feel free to open a ticket. 
+If you were demoted and would like to see why, create a support ticket. If you have any questions or concerns regarding your demotion, feel free to create a support ticket.
 
 ### Which ranks are permitted to train, host, co-host, and rank at training sessions? 
 {: .text-red-300 }

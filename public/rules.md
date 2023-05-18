@@ -22,7 +22,7 @@ There are specific rules you must abide by, when chatting in the Islands Corpora
 **1)** - **DISCORD TOS:** You must always abide by Discord TOS. The TOS can be found linked below. 
 > ⤷  [Discord Terms of Service](https://discord.com/terms)
 
-**2)** -  **NO ADVERTISING OR DM ADVERTISING:** Do not use our channels to promote yourself or your group. This includes DM advertising as well. If you wish to become allies with us, you may open a ticket via <#1106875625526022165>.
+**2)** -  **NO ADVERTISING OR DM ADVERTISING:** Do not use our channels to promote yourself or your group. This includes DM advertising as well. If you wish to become allies with us, you may open a ticket via [#support - Discord](https://discord.com/channels/1106875623860883576/1106875625526022165/1107151513811439626).
 
 **3)** - **BEING RESPECTFUL:** Be respectful to the others in this server. Discrimination against another or in general will **NOT** be tolerated here, or in any of our official communications. Discriminating someone for their life-style and / or in general is **strictly prohibited**. Failure to abide by this rule will cause for immediate action taken against you. 
 

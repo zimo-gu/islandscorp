@@ -1,4 +1,4 @@
-# Islands Corporation Support
+# Islands Corporation
 
 This repository holds the source of the IC support website.
 
